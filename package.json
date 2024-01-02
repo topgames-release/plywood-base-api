@@ -1,6 +1,6 @@
 {
-  "name": "plywood-base-api",
-  "version": "0.2.8",
+  "name": "@topgames/plywood-base-api",
+  "version": "0.2.8-bi.1",
   "description": "A base API for plywood requesters",
   "keywords": [
     "plywood",
@@ -8,13 +8,13 @@
     "api"
   ],
   "author": {
-    "name": "Vadim Ogievetsky",
-    "url": "http://vadim.ogievetsky.com"
+    "name": "waybi",
+    "url": "https://github.com/topgames-release"
   },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "http://github.com/implydata/plywood-base-api.git"
+    "url": "https://github.com/topgames-release/plywood-base-api"
   },
   "main": "index.js",
   "typings": "index.d.ts",
